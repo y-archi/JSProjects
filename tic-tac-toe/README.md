@@ -4,7 +4,7 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more informat
 
 
 ## Introduction
-
+Demo : https://y-archi.github.io/Projects/tic-tac-toe/index.html
 
 ### Rules
 
