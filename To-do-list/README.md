@@ -2,7 +2,7 @@
 
 TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at: https://y-archi.github.io/Projects/To-do-list/index.html
+You can see the website live at: https://y-archi.github.io/JSProjects/To-do-list/index.html
 
 ABOUT THIS PROJECT-:
 
